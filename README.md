@@ -5,7 +5,7 @@ Base repository for learning unix commands
 
 1. Fork this repo.
 2. Clone this repo in your local.
-3. Create a separate folder with your name and then create folders for each of the problems. For ex: <geethasivakumar>/<problem<n>>.
+3. Create a separate folder with your name and then create folders for each of the problems. For ex: {geethasivakumar/problem(n)}.
 4. Solve the problems. Upload the .sh file and output file/screenshot in the respective problem folders.
 5. Raise a pull request with your changes
 
