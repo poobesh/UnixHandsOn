@@ -1,12 +1,0 @@
-Card Type Code: MC
-Card Type Full Name: Master Card
-Issuing Bank: Bank of America
-Card Number: 5184365754974776
-Card Holder's Name: Kristen Frank
-CVV/Cvv2: 944
-Issue Date: 04/2011
-Expiry Date: 04/2017
-Billing Date: 18
-Card PIN: 5784
-Credit Limit: $ 145400 USD
-
