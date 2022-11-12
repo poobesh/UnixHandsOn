@@ -1,0 +1,12 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30468387466900
+Card Holder's Name: Alice G Mitchell
+CVV/Cvv2: 878
+Issue Date: 09/2011
+Expiry Date: 09/2012
+Billing Date: 3
+Card PIN: 7377
+Credit Limit: $ 68000 USD
+
