@@ -44,7 +44,7 @@ Issue Date : $issue_date
 Expiry Date : $expiry_date
 Billing Date : $billing_date
 Card PIN : $card_pin
-Credit Limit : $usd" > $rec_column4.active #saving data in bank account number .active file
+Credit Limit : $usd" > $card_number.active #saving data in bank account number .active file
 	else  #if not active then 
 echo "Card Type Code : $card_type_code
 Card Type Full Name : $card_type_full_name
@@ -56,7 +56,7 @@ Issue Date : $issue_date
 Expiry Date : $expiry_date
 Billing Date : $billing_date
 Card PIN : $card_pin
-Credit Limit : $usd" > $rec_column4.expired #saving data in bank account number .expired file
+Credit Limit : $usd" > $card_number.expired #saving data in bank account number .expired file
 	fi		
 cd ..
 cd ..
