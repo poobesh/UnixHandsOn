@@ -25,6 +25,39 @@ do
     #echo $ex_year $ex_month
     #echo $expiry_check
     usdfunction $card_limit
-    echo $usd
-
+    #echo $usd
+    parent_directory=$(echo $card_type_full_name |  sed 's/ /_/g') 
+	#echo $parent_directory
+	child_directory=$(echo $issuing_bank | sed 's/ /_/g;t')
+	#echo $child_directory
+	mkdir -p $parent_directory/$child_directory
+	cd  $parent_directory/$child_directory
+	if [ $expiry_check = 'active' ] #checking if account is active
+	then
+echo "Card Type Code : $card_type_code
+Card Type Full Name : $card_type_full_name
+Issuing Bank : $issuing_bank
+Card Number : $card_number
+Card Holder's Name : $card_holder
+CVV/CVV2 : $cvv
+Issue Date : $issue_date
+Expiry Date : $expiry_date
+Billing Date : $billing_date
+Card PIN : $card_pin
+Credit Limit : $usd" > $rec_column4.active #saving data in bank account number .active file
+	else  #if not active then 
+echo "Card Type Code : $card_type_code
+Card Type Full Name : $card_type_full_name
+Issuing Bank : $issuing_bank
+Card Number : $card_number
+Card Holder's Name : $card_holder
+CVV/CVV2 : $cvv
+Issue Date : $issue_date
+Expiry Date : $expiry_date
+Billing Date : $billing_date
+Card PIN : $card_pin
+Credit Limit : $usd" > $rec_column4.expired #saving data in bank account number .expired file
+	fi		
+cd ..
+cd ..
 done < <((tail -n +2 100\ CC\ Records.csv))
