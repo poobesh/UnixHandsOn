@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30074512207043
+Card Holder's Name: Louis Martinez
+CVV/CVV2: 120
+Issue Date: 07/2007
+Expiry Date: 07/2021
+Billing Date: 26
+Card PIN: 5735
+Credit Limit: $19,500 USD

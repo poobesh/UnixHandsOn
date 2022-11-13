@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30316633926872
+Card Holder's Name: Laura N Jackson
+CVV/CVV2: 506
+Issue Date: 11/2015
+Expiry Date: 11/2024
+Billing Date: 16
+Card PIN: 0900
+Credit Limit: $83,900 USD

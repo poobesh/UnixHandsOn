@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: Citibank
+Card Number: 4546704841554181
+Card Holder's Name: Paula R Bryan
+CVV/CVV2: 943
+Issue Date: 04/2009
+Expiry Date: 04/2027
+Billing Date: 15
+Card PIN: 3492
+Credit Limit: $102,900 USD

@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: Bank of America
+Card Number: 344850003945824
+Card Holder's Name: Christine E Kim
+CVV/CVV2: 3819
+Issue Date: 08/2011
+Expiry Date: 08/2013
+Billing Date: 4
+Card PIN: 9017
+Credit Limit: $77,700 USD

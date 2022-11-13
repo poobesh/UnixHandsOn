@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3547074154213978
+Card Holder's Name: Jennifer K Potts
+CVV/CVV2: 740
+Issue Date: 08/2010
+Expiry Date: 08/2015
+Billing Date: 24
+Card PIN: 3715
+Credit Limit: $74,900 USD

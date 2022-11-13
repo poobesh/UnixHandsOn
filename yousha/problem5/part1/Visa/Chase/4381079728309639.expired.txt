@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: Chase
+Card Number: 4381079728309639
+Card Holder's Name: Edward Z Owen
+CVV/CVV2: 487
+Issue Date: 01/2010
+Expiry Date: 01/2015
+Billing Date: 3
+Card PIN: 1031
+Credit Limit: $23,300 USD

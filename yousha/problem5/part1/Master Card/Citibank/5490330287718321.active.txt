@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Citibank
+Card Number: 5490330287718321
+Card Holder's Name: Henry T Miller
+CVV/CVV2: 864
+Issue Date: 12/2017
+Expiry Date: 12/2027
+Billing Date: 15
+Card PIN: 3782
+Credit Limit: $135,600 USD

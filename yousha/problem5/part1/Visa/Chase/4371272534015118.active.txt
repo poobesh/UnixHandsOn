@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: Chase
+Card Number: 4371272534015118
+Card Holder's Name: Francis Koch
+CVV/CVV2: 813
+Issue Date: 11/2016
+Expiry Date: 11/2025
+Billing Date: 9
+Card PIN: 5422
+Credit Limit: $18,700 USD

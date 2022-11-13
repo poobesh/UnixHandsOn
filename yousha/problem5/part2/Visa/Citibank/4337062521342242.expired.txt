@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: Citibank
+Card Number: 4337062521342242
+Card Holder's Name: Kathy Robinson
+CVV/CVV2: 489
+Issue Date: 03/2011
+Expiry Date: 03/2019
+Billing Date: 18
+Card PIN: 2905
+Credit Limit: $25,800 USD

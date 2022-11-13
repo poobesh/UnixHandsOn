@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3587385370593642
+Card Holder's Name: Nancy S Robles
+CVV/CVV2: 217
+Issue Date: 11/2015
+Expiry Date: 11/2029
+Billing Date: 12
+Card PIN: 2867
+Credit Limit: $158,000 USD

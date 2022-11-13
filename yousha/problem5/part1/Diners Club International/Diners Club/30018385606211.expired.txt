@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30018385606211
+Card Holder's Name: Amanda L Soto
+CVV/CVV2: 751
+Issue Date: 04/2007
+Expiry Date: 04/2020
+Billing Date: 17
+Card PIN: 2941
+Credit Limit: $150,100 USD

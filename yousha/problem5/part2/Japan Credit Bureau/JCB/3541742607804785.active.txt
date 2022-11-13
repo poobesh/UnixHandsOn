@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3541742607804785
+Card Holder's Name: Janet Alexander
+CVV/CVV2: 494
+Issue Date: 09/2017
+Expiry Date: 09/2023
+Billing Date: 20
+Card PIN: 3722
+Credit Limit: $119,300 USD

@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: GE Capital
+Card Number: 4530692732769919
+Card Holder's Name: Vincent U Jordan
+CVV/CVV2: 481
+Issue Date: 03/2013
+Expiry Date: 03/2019
+Billing Date: 15
+Card PIN: 6913
+Credit Limit: $129,300 USD

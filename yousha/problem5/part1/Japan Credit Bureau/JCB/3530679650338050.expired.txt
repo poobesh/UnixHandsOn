@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3530679650338050
+Card Holder's Name: Billy O Bell
+CVV/CVV2: 769
+Issue Date: 01/2013
+Expiry Date: 01/2014
+Billing Date: 25
+Card PIN: 5208
+Credit Limit: $37,300 USD

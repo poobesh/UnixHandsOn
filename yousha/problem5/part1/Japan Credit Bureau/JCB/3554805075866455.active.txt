@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3554805075866455
+Card Holder's Name: Brandon B Boone
+CVV/CVV2: 931
+Issue Date: 11/2017
+Expiry Date: 11/2037
+Billing Date: 10
+Card PIN: 8949
+Credit Limit: $192,400 USD

@@ -1,0 +1,11 @@
+Card Type Code: DS
+Card Type Full Name: Discover
+Issuing Bank: Discover
+Card Number: 6480195344642784
+Card Holder's Name: Brenda D Peterson
+CVV/CVV2: 689
+Issue Date: 01/2017
+Expiry Date: 01/2022
+Billing Date: 4
+Card PIN: 1998
+Credit Limit: $22,700 USD

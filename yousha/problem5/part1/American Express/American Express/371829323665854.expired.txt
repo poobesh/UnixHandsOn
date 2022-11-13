@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 371829323665854
+Card Holder's Name: Walter B Lopez
+CVV/CVV2: 4580
+Issue Date: 09/2009
+Expiry Date: 09/2012
+Billing Date: 27
+Card PIN: 2909
+Credit Limit: $140,400 USD

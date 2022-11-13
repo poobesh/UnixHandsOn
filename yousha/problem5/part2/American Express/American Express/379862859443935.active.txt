@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 379862859443935
+Card Holder's Name: Cynthia Evans
+CVV/CVV2: 0995
+Issue Date: 08/2017
+Expiry Date: 08/2034
+Billing Date: 25
+Card PIN: 2735
+Credit Limit: $55,700 USD

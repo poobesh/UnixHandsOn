@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30179045289812
+Card Holder's Name: Judith I Rollins
+CVV/CVV2: 583
+Issue Date: 08/2014
+Expiry Date: 08/2031
+Billing Date: 24
+Card PIN: 0937
+Credit Limit: $85,300 USD

@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Chase
+Card Number: 5243003288382344
+Card Holder's Name: Robert A Long
+CVV/CVV2: 890
+Issue Date: 08/2007
+Expiry Date: 08/2026
+Billing Date: 15
+Card PIN: 2078
+Credit Limit: $134,900 USD

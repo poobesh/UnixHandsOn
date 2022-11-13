@@ -1,0 +1,11 @@
+Card Type Code: DS
+Card Type Full Name: Discover
+Issuing Bank: Discover
+Card Number: 6011947988442295
+Card Holder's Name: Paula E Head
+CVV/CVV2: 416
+Issue Date: 07/2017
+Expiry Date: 07/2026
+Billing Date: 27
+Card PIN: 8279
+Credit Limit: $98,000 USD

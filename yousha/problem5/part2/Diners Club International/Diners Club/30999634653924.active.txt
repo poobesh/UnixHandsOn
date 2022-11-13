@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30999634653924
+Card Holder's Name: Laura W Richardson
+CVV/CVV2: 283
+Issue Date: 04/2015
+Expiry Date: 04/2035
+Billing Date: 5
+Card PIN: 0253
+Credit Limit: $126,600 USD

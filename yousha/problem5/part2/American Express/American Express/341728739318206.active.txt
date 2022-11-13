@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 341728739318206
+Card Holder's Name: Rachel Turner
+CVV/CVV2: 2134
+Issue Date: 07/2015
+Expiry Date: 07/2028
+Billing Date: 19
+Card PIN: 0421
+Credit Limit: $186,700 USD
