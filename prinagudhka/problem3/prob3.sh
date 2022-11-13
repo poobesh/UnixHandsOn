@@ -1,4 +1,5 @@
 n=683
+echo "The number is $n"
 num=0
 while [ $n -gt 0 ]
 do
@@ -7,4 +8,4 @@ do
 	num=$((num + $k))
 	n=$((n / 10))
 done
-echo number is $num
+echo "Reverse of the number is $num"

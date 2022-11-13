@@ -14,9 +14,8 @@ if [ ! -d $headDir ]
 then
         mkdir $headDir
 fi
-#cd $headDir
+
 while read Code TName Bank Number HName CVV IDate EDate BDate Pin Limit
-#while read Code
 do
 cd $headDir
 
@@ -56,25 +55,12 @@ cd $headDir
         fi
         touch ./$Bank/$a.txt
         cd ./$Bank
-        #x=`"$%'.0f\n" $Limit`
-        #y=$(eval "$x")
-        #us=$y
-        #a=`expr $Limit + 0`
-        #a=$(($Limit+$b))
-        #a=123456789
         us=$(printf "$%'.0f\n" $Limit)
         us+=" USD"
         printf "Card Type Code: $Code\nCard Type Full Name: $TName\nIssuing Bank: $Bank\nCard Number: $Number\nCard Holder's Name: $HName\nCVV/CVV2: $CVV\nIssue Dtae: $IDate\nExpiry Date: $EDate\nBilling Date: $BDate\nCard PIN: $Pin\nCredit Limit: $us\n" >> $a.txt
         cd ..
         cd ..
 
-
-        #echo "Card Type Code: $Code"
-        #echo "Card Type Full Name: $TName"
-        #echo "Issuing Bank: $Bank"
-        #echo "Card Number: $Number"
-        #echo "Card Holder's Name: $HName"
-        #echo "CVV?CVV2: $CVV"
 cd ..
 done < $INPUT
 IFS=$OLDIFS
