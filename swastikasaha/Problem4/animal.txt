@@ -1,0 +1,9 @@
+cat
+dog
+cat
+elephant
+zebra
+zebra 
+monkey
+elephant
+zebra
