@@ -1,0 +1,5 @@
+this is the first line of the sample file
+the second line is this one 
+this file was created to serve as a sample 
+to show the count of distinct words 
+in the text contained in this sample file
