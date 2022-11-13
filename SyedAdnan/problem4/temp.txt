@@ -1,0 +1,3 @@
+tiger bear elephant tiger zebra
+rhino eagle cat rhino elephant
+zebra tiger elephant cat bear
