@@ -1,0 +1,8 @@
+#!/bin/sh
+echo "Date is $(date "+%D")"
+echo "Time is $(date "+%T")"
+echo "Hostname is $(hostname)"
+echo "User is $(whoami)"
+
+
+
