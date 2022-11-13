@@ -1,0 +1,1 @@
+awk '{for(w=1;w<=NF;w++) print $w}' p4.txt | sort | uniq -c | sort -nr
