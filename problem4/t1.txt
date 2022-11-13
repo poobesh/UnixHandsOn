@@ -1,4 +1,0 @@
-cat tiger elephant tiger tiger cat
-tiger camel zebra
-zebra dog
-cow cat dog 
