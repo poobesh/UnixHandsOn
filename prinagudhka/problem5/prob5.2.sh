@@ -7,7 +7,7 @@ do
         headerRow+="\"$i\","
 done
 
-echo $headerRow >> credit_card_records.csv
+echo $headerRow >> consolidated.csv
 
 write_csv(){
     arr=("$@")
@@ -18,7 +18,7 @@ write_csv(){
             #echo "$i"
             row+="\"$i\","
     done
-    echo $row >> credit_card_records.csv
+    echo $row >> consolidated.csv
     #echo \"$1\",\"$2\",\"$3\",\"$4\" >> credit_card_records.csv
 }
 
