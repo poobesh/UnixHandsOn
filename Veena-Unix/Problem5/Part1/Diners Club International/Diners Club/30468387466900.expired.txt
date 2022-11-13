@@ -1,0 +1,11 @@
+Card Type Code:DC card type
+Full name:Diners Club International
+ Issuing bank:Diners Club 
+Card number:30468387466900
+ Card Holder's Name:Alice G Mitchell
+ CVV/CVV2:878 
+ issue date:09/2011
+ expiry Date: 09/2012
+ billing date:3 
+ card pin:7377 
+ credit limit:68000 

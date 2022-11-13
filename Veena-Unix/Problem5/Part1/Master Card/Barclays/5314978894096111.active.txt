@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Barclays 
+Card number:5314978894096111
+ Card Holder's Name:Phyllis H Johnson
+ CVV/CVV2:614 
+ issue date:03/2015
+ expiry Date: 03/2024
+ billing date:18 
+ card pin:7650 
+ credit limit:71000 

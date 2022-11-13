@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5399503918804668
+ Card Holder's Name:Rose Jenkins
+ CVV/CVV2:077 
+ issue date:06/2008
+ expiry Date: 06/2019
+ billing date:26 
+ card pin:2235 
+ credit limit:184500 

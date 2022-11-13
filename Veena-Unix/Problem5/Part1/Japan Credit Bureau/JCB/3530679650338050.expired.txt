@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3530679650338050
+ Card Holder's Name:Billy O Bell
+ CVV/CVV2:769 
+ issue date:01/2013
+ expiry Date: 01/2014
+ billing date:25 
+ card pin:5208 
+ credit limit:37300 

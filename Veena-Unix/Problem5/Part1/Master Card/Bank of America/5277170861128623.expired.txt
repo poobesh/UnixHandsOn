@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Bank of America 
+Card number:5277170861128623
+ Card Holder's Name:Grace D Sparks
+ CVV/CVV2:076 
+ issue date:07/2008
+ expiry Date: 07/2009
+ billing date:21 
+ card pin:6076 
+ credit limit:170100 

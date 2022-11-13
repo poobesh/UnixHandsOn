@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5453499332117717
+ Card Holder's Name:Aaron Z Ramirez
+ CVV/CVV2:858 
+ issue date:04/2011
+ expiry Date: 04/2025
+ billing date:24 
+ card pin:1434 
+ credit limit:52500 

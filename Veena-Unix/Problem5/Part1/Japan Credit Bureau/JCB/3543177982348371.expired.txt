@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3543177982348371
+ Card Holder's Name:Leonard K Browning
+ CVV/CVV2:380 
+ issue date:11/2013
+ expiry Date: 11/2021
+ billing date:6 
+ card pin:0202 
+ credit limit:151400 

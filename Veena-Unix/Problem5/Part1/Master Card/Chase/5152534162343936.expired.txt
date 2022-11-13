@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5152534162343936
+ Card Holder's Name:Allen Rodgers
+ CVV/CVV2:155 
+ issue date:10/2015
+ expiry Date: 10/2020
+ billing date:9 
+ card pin:4658 
+ credit limit:17300 

@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Chase 
+Card number:4871548318349681
+ Card Holder's Name:Sandra N Parrish
+ CVV/CVV2:479 
+ issue date:06/2008
+ expiry Date: 06/2011
+ billing date:6 
+ card pin:9321 
+ credit limit:20300 

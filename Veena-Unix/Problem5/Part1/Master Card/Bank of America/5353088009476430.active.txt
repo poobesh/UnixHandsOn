@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Bank of America 
+Card number:5353088009476430
+ Card Holder's Name:Keith Z Morris
+ CVV/CVV2:226 
+ issue date:08/2008
+ expiry Date: 08/2026
+ billing date:28 
+ card pin:2482 
+ credit limit:65800 

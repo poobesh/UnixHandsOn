@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Citibank 
+Card number:4337062521342242
+ Card Holder's Name:Kathy Robinson
+ CVV/CVV2:489 
+ issue date:03/2011
+ expiry Date: 03/2019
+ billing date:18 
+ card pin:2905 
+ credit limit:25800 

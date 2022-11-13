@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:374521213444907
+ Card Holder's Name:Howard C Dunlap
+ CVV/CVV2:7937 
+ issue date:01/2017
+ expiry Date: 01/2027
+ billing date:28 
+ card pin:9677 
+ credit limit:187700 

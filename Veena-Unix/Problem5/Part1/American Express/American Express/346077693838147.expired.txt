@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:346077693838147
+ Card Holder's Name:Rebecca Jenkins
+ CVV/CVV2:2963 
+ issue date:02/2014
+ expiry Date: 02/2020
+ billing date:22 
+ card pin:3262 
+ credit limit:65000 

@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:USAA 
+Card number:345283519946202
+ Card Holder's Name:Heather Wong
+ CVV/CVV2:6812 
+ issue date:02/2012
+ expiry Date: 02/2020
+ billing date:6 
+ card pin:8170 
+ credit limit:10700 

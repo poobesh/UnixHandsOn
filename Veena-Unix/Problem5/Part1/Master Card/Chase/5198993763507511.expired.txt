@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5198993763507511
+ Card Holder's Name:Vincent M Fulton
+ CVV/CVV2:220 
+ issue date:10/2013
+ expiry Date: 10/2022
+ billing date:24 
+ card pin:0023 
+ credit limit:95100 

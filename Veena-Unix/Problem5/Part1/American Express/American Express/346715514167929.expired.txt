@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:346715514167929
+ Card Holder's Name:Marcus D Ashley
+ CVV/CVV2:2302 
+ issue date:04/2013
+ expiry Date: 04/2021
+ billing date:6 
+ card pin:2724 
+ credit limit:28400 

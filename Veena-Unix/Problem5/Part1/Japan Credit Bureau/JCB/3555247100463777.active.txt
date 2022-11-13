@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3555247100463777
+ Card Holder's Name:Judith Y Ross
+ CVV/CVV2:762 
+ issue date:02/2013
+ expiry Date: 02/2031
+ billing date:17 
+ card pin:4037 
+ credit limit:145600 

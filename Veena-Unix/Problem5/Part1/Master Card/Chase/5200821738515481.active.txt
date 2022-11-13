@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5200821738515481
+ Card Holder's Name:Howard R Bernard
+ CVV/CVV2:435 
+ issue date:06/2015
+ expiry Date: 06/2026
+ billing date:13 
+ card pin:4804 
+ credit limit:143400 

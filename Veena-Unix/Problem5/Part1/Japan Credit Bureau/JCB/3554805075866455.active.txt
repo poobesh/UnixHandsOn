@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3554805075866455
+ Card Holder's Name:Brandon B Boone
+ CVV/CVV2:931 
+ issue date:11/2017
+ expiry Date: 11/2037
+ billing date:10 
+ card pin:8949 
+ credit limit:192400 

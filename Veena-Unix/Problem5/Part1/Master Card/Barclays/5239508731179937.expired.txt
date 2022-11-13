@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Barclays 
+Card number:5239508731179937
+ Card Holder's Name:Anita O Brennan
+ CVV/CVV2:862 
+ issue date:05/2010
+ expiry Date: 05/2015
+ billing date:24 
+ card pin:5281 
+ credit limit:83900 
