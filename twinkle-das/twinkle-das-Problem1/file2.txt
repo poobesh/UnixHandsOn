@@ -1,0 +1,2 @@
+This is file2
+The month in file2 is july
