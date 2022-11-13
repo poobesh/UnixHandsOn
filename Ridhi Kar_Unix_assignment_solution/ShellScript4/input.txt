@@ -1,0 +1,3 @@
+cat god elephant goat
+goat dog dog cat
+cat fox
