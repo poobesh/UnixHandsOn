@@ -8,5 +8,5 @@ Issue Date: 07/2015
 Expiry Date: 07/2028
 Billing Date: 19
 Card PIN: 0421
-Credit Limit: $ 186700 USD
+Credit Limit: $186,700 USD
 

@@ -8,5 +8,5 @@ Issue Date: 03/2011
 Expiry Date: 03/2019
 Billing Date: 18
 Card PIN: 2905
-Credit Limit: $ 25800 USD
+Credit Limit: $25,800 USD
 

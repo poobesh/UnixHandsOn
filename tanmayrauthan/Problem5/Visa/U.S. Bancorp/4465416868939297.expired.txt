@@ -8,5 +8,5 @@ Issue Date: 11/2009
 Expiry Date: 11/2014
 Billing Date: 10
 Card PIN: 5230
-Credit Limit: $ 124500 USD
+Credit Limit: $124,500 USD
 

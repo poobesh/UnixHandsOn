@@ -8,5 +8,5 @@ Issue Date: 02/2015
 Expiry Date: 02/2028
 Billing Date: 27
 Card PIN: 9382
-Credit Limit: $ 13500 USD
+Credit Limit: $13,500 USD
 

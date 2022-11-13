@@ -8,5 +8,5 @@ Issue Date: 08/2015
 Expiry Date: 08/2025
 Billing Date: 1
 Card PIN: 0040
-Credit Limit: $ 30700 USD
+Credit Limit: $30,700 USD
 

@@ -8,5 +8,5 @@ Issue Date: 08/2016
 Expiry Date: 08/2022
 Billing Date: 23
 Card PIN: 0652
-Credit Limit: $ 27400 USD
+Credit Limit: $27,400 USD
 

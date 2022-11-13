@@ -8,5 +8,5 @@ Issue Date: 09/2011
 Expiry Date: 09/2012
 Billing Date: 3
 Card PIN: 7377
-Credit Limit: $ 68000 USD
+Credit Limit: $68,000 USD
 

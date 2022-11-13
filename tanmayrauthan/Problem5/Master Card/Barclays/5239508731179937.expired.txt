@@ -8,5 +8,5 @@ Issue Date: 05/2010
 Expiry Date: 05/2015
 Billing Date: 24
 Card PIN: 5281
-Credit Limit: $ 83900 USD
+Credit Limit: $83,900 USD
 

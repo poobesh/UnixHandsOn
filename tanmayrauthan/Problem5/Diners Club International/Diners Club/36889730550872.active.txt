@@ -8,5 +8,5 @@ Issue Date: 06/2014
 Expiry Date: 06/2033
 Billing Date: 27
 Card PIN: 2447
-Credit Limit: $ 61700 USD
+Credit Limit: $61,700 USD
 

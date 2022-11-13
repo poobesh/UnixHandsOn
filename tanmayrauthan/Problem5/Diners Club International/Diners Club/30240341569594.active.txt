@@ -8,5 +8,5 @@ Issue Date: 10/2015
 Expiry Date: 10/2027
 Billing Date: 12
 Card PIN: 5766
-Credit Limit: $ 93300 USD
+Credit Limit: $93,300 USD
 

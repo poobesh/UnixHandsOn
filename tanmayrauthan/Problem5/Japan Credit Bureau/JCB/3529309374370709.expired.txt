@@ -8,5 +8,5 @@ Issue Date: 08/2013
 Expiry Date: 08/2022
 Billing Date: 6
 Card PIN: 3030
-Credit Limit: $ 50500 USD
+Credit Limit: $50,500 USD
 

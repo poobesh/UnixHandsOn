@@ -8,5 +8,5 @@ Issue Date: 07/2009
 Expiry Date: 07/2016
 Billing Date: 4
 Card PIN: 3248
-Credit Limit: $ 199000 USD
+Credit Limit: $199,000 USD
 

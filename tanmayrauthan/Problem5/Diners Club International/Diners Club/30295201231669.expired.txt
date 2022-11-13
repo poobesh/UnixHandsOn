@@ -8,5 +8,5 @@ Issue Date: 12/2015
 Expiry Date: 12/2016
 Billing Date: 11
 Card PIN: 3915
-Credit Limit: $ 12700 USD
+Credit Limit: $12,700 USD
 

@@ -8,5 +8,5 @@ Issue Date: 08/2011
 Expiry Date: 08/2013
 Billing Date: 4
 Card PIN: 9017
-Credit Limit: $ 77700 USD
+Credit Limit: $77,700 USD
 

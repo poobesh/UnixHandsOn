@@ -8,5 +8,5 @@ Issue Date: 08/2008
 Expiry Date: 08/2026
 Billing Date: 28
 Card PIN: 2482
-Credit Limit: $ 65800 USD
+Credit Limit: $65,800 USD
 

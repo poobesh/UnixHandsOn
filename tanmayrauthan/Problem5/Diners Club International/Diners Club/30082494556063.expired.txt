@@ -8,5 +8,5 @@ Issue Date: 02/2007
 Expiry Date: 02/2020
 Billing Date: 13
 Card PIN: 2319
-Credit Limit: $ 81900 USD
+Credit Limit: $81,900 USD
 

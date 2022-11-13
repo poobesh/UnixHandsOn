@@ -8,5 +8,5 @@ Issue Date: 06/2008
 Expiry Date: 06/2011
 Billing Date: 6
 Card PIN: 9321
-Credit Limit: $ 20300 USD
+Credit Limit: $20,300 USD
 

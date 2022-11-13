@@ -8,5 +8,5 @@ Issue Date: 11/2017
 Expiry Date: 11/2026
 Billing Date: 22
 Card PIN: 0066
-Credit Limit: $ 38300 USD
+Credit Limit: $38,300 USD
 

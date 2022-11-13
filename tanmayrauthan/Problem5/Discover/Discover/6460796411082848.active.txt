@@ -8,5 +8,5 @@ Issue Date: 05/2016
 Expiry Date: 05/2024
 Billing Date: 4
 Card PIN: 0257
-Credit Limit: $ 82100 USD
+Credit Limit: $82,100 USD
 

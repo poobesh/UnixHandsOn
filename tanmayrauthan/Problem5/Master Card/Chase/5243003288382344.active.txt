@@ -8,5 +8,5 @@ Issue Date: 08/2007
 Expiry Date: 08/2026
 Billing Date: 15
 Card PIN: 2078
-Credit Limit: $ 134900 USD
+Credit Limit: $134,900 USD
 

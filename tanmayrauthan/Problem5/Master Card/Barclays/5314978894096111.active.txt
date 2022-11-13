@@ -8,5 +8,5 @@ Issue Date: 03/2015
 Expiry Date: 03/2024
 Billing Date: 18
 Card PIN: 7650
-Credit Limit: $ 71000 USD
+Credit Limit: $71,000 USD
 

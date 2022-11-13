@@ -8,5 +8,5 @@ Issue Date: 04/2007
 Expiry Date: 04/2020
 Billing Date: 17
 Card PIN: 2941
-Credit Limit: $ 150100 USD
+Credit Limit: $150,100 USD
 

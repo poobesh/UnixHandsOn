@@ -8,5 +8,5 @@ Issue Date: 10/2014
 Expiry Date: 10/2022
 Billing Date: 20
 Card PIN: 6905
-Credit Limit: $ 139900 USD
+Credit Limit: $139,900 USD
 

@@ -8,5 +8,5 @@ Issue Date: 04/2009
 Expiry Date: 04/2027
 Billing Date: 15
 Card PIN: 3492
-Credit Limit: $ 102900 USD
+Credit Limit: $102,900 USD
 

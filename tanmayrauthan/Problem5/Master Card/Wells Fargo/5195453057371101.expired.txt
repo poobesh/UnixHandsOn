@@ -8,5 +8,5 @@ Issue Date: 06/2011
 Expiry Date: 06/2020
 Billing Date: 15
 Card PIN: 3907
-Credit Limit: $ 41500 USD
+Credit Limit: $41,500 USD
 

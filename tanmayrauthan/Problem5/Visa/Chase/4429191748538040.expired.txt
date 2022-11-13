@@ -8,5 +8,5 @@ Issue Date: 12/2007
 Expiry Date: 12/2014
 Billing Date: 14
 Card PIN: 3233
-Credit Limit: $ 77000 USD
+Credit Limit: $77,000 USD
 

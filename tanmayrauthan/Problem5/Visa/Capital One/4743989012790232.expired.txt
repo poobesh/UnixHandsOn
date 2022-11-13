@@ -8,5 +8,5 @@ Issue Date: 02/2016
 Expiry Date: 02/2019
 Billing Date: 15
 Card PIN: 7835
-Credit Limit: $ 100300 USD
+Credit Limit: $100,300 USD
 

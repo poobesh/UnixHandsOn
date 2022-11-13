@@ -8,5 +8,5 @@ Issue Date: 09/2012
 Expiry Date: 09/2018
 Billing Date: 18
 Card PIN: 8687
-Credit Limit: $ 27000 USD
+Credit Limit: $27,000 USD
 

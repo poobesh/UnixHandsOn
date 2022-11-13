@@ -8,5 +8,5 @@ Issue Date: 04/2015
 Expiry Date: 04/2027
 Billing Date: 8
 Card PIN: 9007
-Credit Limit: $ 13100 USD
+Credit Limit: $13,100 USD
 

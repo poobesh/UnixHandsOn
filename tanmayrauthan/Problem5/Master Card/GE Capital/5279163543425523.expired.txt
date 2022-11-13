@@ -8,5 +8,5 @@ Issue Date: 11/2013
 Expiry Date: 11/2016
 Billing Date: 12
 Card PIN: 4482
-Credit Limit: $ 80500 USD
+Credit Limit: $80,500 USD
 

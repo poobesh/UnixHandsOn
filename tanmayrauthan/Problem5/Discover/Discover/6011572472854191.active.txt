@@ -8,5 +8,5 @@ Issue Date: 09/2010
 Expiry Date: 09/2029
 Billing Date: 1
 Card PIN: 1169
-Credit Limit: $ 42900 USD
+Credit Limit: $42,900 USD
 

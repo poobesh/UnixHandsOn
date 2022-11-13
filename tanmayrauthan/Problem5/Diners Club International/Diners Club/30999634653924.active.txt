@@ -8,5 +8,5 @@ Issue Date: 04/2015
 Expiry Date: 04/2035
 Billing Date: 5
 Card PIN: 0253
-Credit Limit: $ 126600 USD
+Credit Limit: $126,600 USD
 

@@ -8,5 +8,5 @@ Issue Date: 08/2010
 Expiry Date: 08/2012
 Billing Date: 21
 Card PIN: 0425
-Credit Limit: $ 152300 USD
+Credit Limit: $152,300 USD
 

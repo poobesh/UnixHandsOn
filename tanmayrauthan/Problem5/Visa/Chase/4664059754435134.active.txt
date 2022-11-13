@@ -8,5 +8,5 @@ Issue Date: 03/2015
 Expiry Date: 03/2024
 Billing Date: 3
 Card PIN: 5442
-Credit Limit: $ 167400 USD
+Credit Limit: $167,400 USD
 

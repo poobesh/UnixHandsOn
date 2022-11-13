@@ -8,5 +8,5 @@ Issue Date: 06/2011
 Expiry Date: 06/2021
 Billing Date: 1
 Card PIN: 2612
-Credit Limit: $ 95300 USD
+Credit Limit: $95,300 USD
 

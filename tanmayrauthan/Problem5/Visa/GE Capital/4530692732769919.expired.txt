@@ -8,5 +8,5 @@ Issue Date: 03/2013
 Expiry Date: 03/2019
 Billing Date: 15
 Card PIN: 6913
-Credit Limit: $ 129300 USD
+Credit Limit: $129,300 USD
 

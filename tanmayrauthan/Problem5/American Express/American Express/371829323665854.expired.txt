@@ -8,5 +8,5 @@ Issue Date: 09/2009
 Expiry Date: 09/2012
 Billing Date: 27
 Card PIN: 2909
-Credit Limit: $ 140400 USD
+Credit Limit: $140,400 USD
 

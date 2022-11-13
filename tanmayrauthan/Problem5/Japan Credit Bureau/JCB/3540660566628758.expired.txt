@@ -8,5 +8,5 @@ Issue Date: 07/2010
 Expiry Date: 07/2016
 Billing Date: 1
 Card PIN: 1473
-Credit Limit: $ 198200 USD
+Credit Limit: $198,200 USD
 

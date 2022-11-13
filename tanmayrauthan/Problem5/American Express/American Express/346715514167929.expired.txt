@@ -8,5 +8,5 @@ Issue Date: 04/2013
 Expiry Date: 04/2021
 Billing Date: 6
 Card PIN: 2724
-Credit Limit: $ 28400 USD
+Credit Limit: $28,400 USD
 

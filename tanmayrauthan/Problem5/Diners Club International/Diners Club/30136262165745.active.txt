@@ -8,5 +8,5 @@ Issue Date: 08/2016
 Expiry Date: 08/2028
 Billing Date: 26
 Card PIN: 7665
-Credit Limit: $ 47800 USD
+Credit Limit: $47,800 USD
 

@@ -8,5 +8,5 @@ Issue Date: 10/2016
 Expiry Date: 10/2026
 Billing Date: 23
 Card PIN: 9815
-Credit Limit: $ 25600 USD
+Credit Limit: $25,600 USD
 

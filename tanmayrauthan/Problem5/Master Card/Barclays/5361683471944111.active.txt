@@ -8,5 +8,5 @@ Issue Date: 06/2014
 Expiry Date: 06/2026
 Billing Date: 16
 Card PIN: 4097
-Credit Limit: $ 28100 USD
+Credit Limit: $28,100 USD
 

@@ -8,5 +8,5 @@ Issue Date: 12/2017
 Expiry Date: 12/2027
 Billing Date: 15
 Card PIN: 3782
-Credit Limit: $ 135600 USD
+Credit Limit: $135,600 USD
 

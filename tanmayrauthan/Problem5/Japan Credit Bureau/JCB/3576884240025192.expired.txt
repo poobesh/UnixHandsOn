@@ -8,5 +8,5 @@ Issue Date: 04/2017
 Expiry Date: 04/2021
 Billing Date: 25
 Card PIN: 5263
-Credit Limit: $ 42200 USD
+Credit Limit: $42,200 USD
 

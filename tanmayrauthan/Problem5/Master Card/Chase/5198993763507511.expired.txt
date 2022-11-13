@@ -8,5 +8,5 @@ Issue Date: 10/2013
 Expiry Date: 10/2022
 Billing Date: 24
 Card PIN: 0023
-Credit Limit: $ 95100 USD
+Credit Limit: $95,100 USD
 

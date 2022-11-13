@@ -8,5 +8,5 @@ Issue Date: 03/2015
 Expiry Date: 03/2021
 Billing Date: 3
 Card PIN: 4177
-Credit Limit: $ 57300 USD
+Credit Limit: $57,300 USD
 
