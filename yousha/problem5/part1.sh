@@ -1,8 +1,4 @@
 #!/bin/bash
-  # #making a folder
-  # mkdir -p "File Structure"
-  # cd "File Structure"
-
 usdfunction(){
     usd=`echo $1 | sed ':a;s/\B[0-9]\{3\}\>/,&/;ta' | sed 's/^/$/' | sed 's/$/ USD/'`
 	echo "$usd"
@@ -28,14 +24,10 @@ do
   
   mkdir -p $parent_directory/$child_directory
   cd  $parent_directory/$child_directory
-  # mkdir -p "$column2"
-  # cd "$column2"
-  # mkdir -p "$column3"
-  # cd "$column3"
   
-  #expired or active
-  year="${column8:3:7}"
-  month="${10#column8:0:2}"
+#expired or active
+year="${column8:3:7}"
+month="${10#column8:0:2}"
 if [ $year -gt $(date +'%Y') ]
 then 
 	ac_or_exp='active'
