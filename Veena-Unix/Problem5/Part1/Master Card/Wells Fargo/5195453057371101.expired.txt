@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Wells Fargo 
+Card number:5195453057371101
+ Card Holder's Name:Jon O Reese
+ CVV/CVV2:241 
+ issue date:06/2011
+ expiry Date: 06/2020
+ billing date:15 
+ card pin:3907 
+ credit limit:41500 

@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Bank of America 
+Card number:5197486845921173
+ Card Holder's Name:Bobby F Walker
+ CVV/CVV2:351 
+ issue date:10/2015
+ expiry Date: 10/2024
+ billing date:19 
+ card pin:7212 
+ credit limit:162200 

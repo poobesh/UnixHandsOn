@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Capital One 
+Card number:4743989012790232
+ Card Holder's Name:Jimmy V Baker
+ CVV/CVV2:585 
+ issue date:02/2016
+ expiry Date: 02/2019
+ billing date:15 
+ card pin:7835 
+ credit limit:100300 

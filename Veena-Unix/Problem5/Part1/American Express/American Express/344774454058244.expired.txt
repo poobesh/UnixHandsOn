@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:344774454058244
+ Card Holder's Name:Randall Z Lott
+ CVV/CVV2:7026 
+ issue date:11/2013
+ expiry Date: 11/2021
+ billing date:28 
+ card pin:2813 
+ credit limit:44800 

@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Citibank 
+Card number:5490330287718321
+ Card Holder's Name:Henry T Miller
+ CVV/CVV2:864 
+ issue date:12/2017
+ expiry Date: 12/2027
+ billing date:15 
+ card pin:3782 
+ credit limit:135600 

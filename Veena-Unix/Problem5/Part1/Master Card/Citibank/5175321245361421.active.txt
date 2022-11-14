@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Citibank 
+Card number:5175321245361421
+ Card Holder's Name:Christina G Francis
+ CVV/CVV2:756 
+ issue date:04/2017
+ expiry Date: 04/2024
+ billing date:13 
+ card pin:8442 
+ credit limit:12000 

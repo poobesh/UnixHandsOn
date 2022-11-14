@@ -1,0 +1,11 @@
+Card Type Code:DC card type
+Full name:Diners Club International
+ Issuing bank:Diners Club 
+Card number:30939998690385
+ Card Holder's Name:Alicia S Crawford
+ CVV/CVV2:106 
+ issue date:06/2012
+ expiry Date: 06/2029
+ billing date:14 
+ card pin:3702 
+ credit limit:38700 

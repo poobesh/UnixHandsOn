@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Chase 
+Card number:4429191748538040
+ Card Holder's Name:Stephen H Ramirez
+ CVV/CVV2:432 
+ issue date:12/2007
+ expiry Date: 12/2014
+ billing date:14 
+ card pin:3233 
+ credit limit:77000 

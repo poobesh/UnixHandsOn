@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Barclays 
+Card number:4427457766161029
+ Card Holder's Name:Justin Y Coleman
+ CVV/CVV2:807 
+ issue date:06/2007
+ expiry Date: 06/2008
+ billing date:24 
+ card pin:8844 
+ credit limit:154800 

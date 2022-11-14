@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3543410867000993
+ Card Holder's Name:Linda T Brown
+ CVV/CVV2:878 
+ issue date:10/2014
+ expiry Date: 10/2022
+ billing date:20 
+ card pin:6905 
+ credit limit:139900 

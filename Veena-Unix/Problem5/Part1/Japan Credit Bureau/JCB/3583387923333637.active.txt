@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3583387923333637
+ Card Holder's Name:Elizabeth Z Lopez
+ CVV/CVV2:913 
+ issue date:11/2017
+ expiry Date: 11/2026
+ billing date:22 
+ card pin:0066 
+ credit limit:38300 

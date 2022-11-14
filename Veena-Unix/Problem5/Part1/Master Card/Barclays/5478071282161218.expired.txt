@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Barclays 
+Card number:5478071282161218
+ Card Holder's Name:Nancy C Cox
+ CVV/CVV2:756 
+ issue date:06/2012
+ expiry Date: 06/2016
+ billing date:24 
+ card pin:9008 
+ credit limit:187600 

@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Capital One 
+Card number:5227744105887664
+ Card Holder's Name:Arthur Hines
+ CVV/CVV2:374 
+ issue date:10/2013
+ expiry Date: 10/2023
+ billing date:24 
+ card pin:5574 
+ credit limit:154800 

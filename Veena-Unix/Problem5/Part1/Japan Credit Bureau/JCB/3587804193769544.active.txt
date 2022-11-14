@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3587804193769544
+ Card Holder's Name:Jeffrey J Barnes
+ CVV/CVV2:337 
+ issue date:08/2015
+ expiry Date: 08/2023
+ billing date:2 
+ card pin:7675 
+ credit limit:155600 

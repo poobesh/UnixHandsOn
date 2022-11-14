@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:371048488202599
+ Card Holder's Name:Craig Gonzalez
+ CVV/CVV2:3664 
+ issue date:08/2015
+ expiry Date: 08/2025
+ billing date:1 
+ card pin:0040 
+ credit limit:30700 

@@ -1,0 +1,11 @@
+Card Type Code:MC card type
+Full name:Master Card
+ Issuing bank:Chase 
+Card number:5185684984230984
+ Card Holder's Name:Margaret T Ramirez
+ CVV/CVV2:833 
+ issue date:01/2009
+ expiry Date: 01/2018
+ billing date:6 
+ card pin:6900 
+ credit limit:195100 

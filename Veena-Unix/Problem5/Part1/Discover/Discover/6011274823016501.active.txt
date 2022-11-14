@@ -1,0 +1,11 @@
+Card Type Code:DS card type
+Full name:Discover
+ Issuing bank:Discover 
+Card number:6011274823016501
+ Card Holder's Name:Howard X Nelson
+ CVV/CVV2:469 
+ issue date:02/2013
+ expiry Date: 02/2030
+ billing date:20 
+ card pin:5784 
+ credit limit:29500 

@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:379862859443935
+ Card Holder's Name:Cynthia Evans
+ CVV/CVV2:0995 
+ issue date:08/2017
+ expiry Date: 08/2034
+ billing date:25 
+ card pin:2735 
+ credit limit:55700 

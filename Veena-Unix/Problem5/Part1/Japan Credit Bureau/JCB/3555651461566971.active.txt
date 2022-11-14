@@ -1,0 +1,11 @@
+Card Type Code:JC card type
+Full name:Japan Credit Bureau
+ Issuing bank:JCB 
+Card number:3555651461566971
+ Card Holder's Name:Heather W Acosta
+ CVV/CVV2:465 
+ issue date:02/2015
+ expiry Date: 02/2028
+ billing date:27 
+ card pin:9382 
+ credit limit:13500 

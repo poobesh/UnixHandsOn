@@ -1,0 +1,11 @@
+Card Type Code:VI card type
+Full name:Visa
+ Issuing bank:Chase 
+Card number:4391913331428998
+ Card Holder's Name:Jack Foster
+ CVV/CVV2:717 
+ issue date:03/2015
+ expiry Date: 03/2021
+ billing date:3 
+ card pin:4177 
+ credit limit:57300 

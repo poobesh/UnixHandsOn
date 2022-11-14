@@ -1,0 +1,11 @@
+Card Type Code:AX card type
+Full name:American Express
+ Issuing bank:American Express 
+Card number:370138166851022
+ Card Holder's Name:Jeremy N White
+ CVV/CVV2:9594 
+ issue date:07/2009
+ expiry Date: 07/2016
+ billing date:4 
+ card pin:3248 
+ credit limit:199000 

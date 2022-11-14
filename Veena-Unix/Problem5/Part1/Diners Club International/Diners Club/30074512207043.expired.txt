@@ -1,0 +1,11 @@
+Card Type Code:DC card type
+Full name:Diners Club International
+ Issuing bank:Diners Club 
+Card number:30074512207043
+ Card Holder's Name:Louis Martinez
+ CVV/CVV2:120 
+ issue date:07/2007
+ expiry Date: 07/2021
+ billing date:26 
+ card pin:5735 
+ credit limit:19500 
