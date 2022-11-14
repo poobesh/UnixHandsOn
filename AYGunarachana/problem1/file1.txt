@@ -1,0 +1,11 @@
+age	username		birthdate
+20	cornstarchtheft		22nd July,2008
+14	chagrinedcontroverting	5th Dec,2001
+95	ContrerassWeber		13th July,2011
+20	KawabatasLandsat	26th Jan,1995
+93	exitpatronage		3rd May,1987
+21	tepeeSpirographs	27th March,1995
+53	squabsVirgosmethinks	14th July,2003
+20	unrestsicingsshallots	4th July,2000
+24	torsions		12th Oct,2017
+23	unwritten		21st Oct,1999
