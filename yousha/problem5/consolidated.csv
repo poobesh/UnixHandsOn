@@ -1,0 +1,101 @@
+Card Type Code,Card Type Full Name,Issuing Bank,Card Number,Card Holder's Name,CVV/CVV2,Issue Date,Expiry Date,Billing Date,Card PIN,Credit Limit
+AX,merican Express,merican Express,41417671620692,elen R Lucas,798,9/2017,9/2020,,066,0100 
+AX,merican Express,merican Express,41728739318206,achel Turner,134,7/2015,7/2028,9,421,86700 
+AX,merican Express,merican Express,44774454058244,andall Z Lott,026,1/2013,1/2021,8,813,4800 
+AX,merican Express,merican Express,45631531175020,enry W Hewitt,525,5/2011,5/2023,5,880,8700 
+AX,merican Express,merican Express,46077693838147,ebecca Jenkins,963,2/2014,2/2020,2,262,5000 
+AX,merican Express,merican Express,46715514167929,arcus D Ashley,302,4/2013,4/2021,,724,8400 
+AX,merican Express,merican Express,47364406683575,erald O Lee,614,8/2016,8/2022,3,652,7400 
+AX,merican Express,merican Express,70138166851022,eremy N White,594,7/2009,7/2016,,248,99000 
+AX,merican Express,merican Express,70760148157259,esse J Perez,555,6/2015,6/2032,5,493,8000 
+AX,merican Express,merican Express,71048488202599,raig Gonzalez,664,8/2015,8/2025,,040,0700 
+AX,merican Express,merican Express,71829323665854,alter B Lopez,580,9/2009,9/2012,7,909,40400 
+AX,merican Express,merican Express,73818432827966,harles R Farrell,890,0/2012,0/2030,,444,1400 
+AX,merican Express,merican Express,74521213444907,oward C Dunlap,937,1/2017,1/2027,8,677,87700 
+AX,merican Express,merican Express,79862859443935,ynthia Evans,995,8/2017,8/2034,5,735,5700 
+AX,merican Express,ank of America,44850003945824,hristine E Kim,819,8/2011,8/2013,,017,7700 
+AX,merican Express,SAA,45283519946202,eather Wong,812,2/2012,2/2020,,170,0700 
+DC,iners Club International,iners Club,0018385606211,manda L Soto,51,4/2007,4/2020,7,941,50100 
+DC,iners Club International,iners Club,0074512207043,ouis Martinez,20,7/2007,7/2021,6,735,9500 
+DC,iners Club International,iners Club,0082494556063,elen P Perry,09,2/2007,2/2020,3,319,1900 
+DC,iners Club International,iners Club,0136262165745,eremy P Price,82,8/2016,8/2028,6,665,7800 
+DC,iners Club International,iners Club,0179045289812,udith I Rollins,83,8/2014,8/2031,4,937,5300 
+DC,iners Club International,iners Club,0183046434146,leanor Crane,32,0/2014,0/2017,6,331,8300 
+DC,iners Club International,iners Club,0240341569594,oe N Mccarty,09,0/2015,0/2027,2,766,3300 
+DC,iners Club International,iners Club,0295201231669,awn U Reese,70,2/2015,2/2016,1,915,2700 
+DC,iners Club International,iners Club,0303893030165,iane R Ross,37,5/2011,5/2018,6,008,77200 
+DC,iners Club International,iners Club,0316633926872,aura N Jackson,06,1/2015,1/2024,6,900,3900 
+DC,iners Club International,iners Club,0318443720172,harles R Brooks,24,1/2011,1/2017,3,808,4600 
+DC,iners Club International,iners Club,0345286399871,orothy H Le,79,6/2007,6/2022,,913,35700 
+DC,iners Club International,iners Club,0468387466900,lice G Mitchell,78,9/2011,9/2012,,377,8000 
+DC,iners Club International,iners Club,0939998690385,licia S Crawford,06,6/2012,6/2029,4,702,8700 
+DC,iners Club International,iners Club,0999634653924,aura W Richardson,83,4/2015,4/2035,,253,26600 
+DC,iners Club International,iners Club,6110581455529,illian M Green,51,2/2007,2/2021,,833,8900 
+DC,iners Club International,iners Club,6889730550872,illie O King,19,6/2014,6/2033,7,447,1700 
+DC,iners Club International,iners Club,8916424983909,on P Wooten,23,5/2015,5/2016,,913,98800 
+DS,iscover,iscover,011176670704222,arilyn E Coleman,94,0/2016,0/2024,6,677,88300 
+DS,iscover,iscover,011274823016501,oward X Nelson,69,2/2013,2/2030,0,784,9500 
+DS,iscover,iscover,011276417636461,nnie R House,12,6/2011,6/2021,,612,5300 
+DS,iscover,iscover,011572472854191,im X Ballard,56,9/2010,9/2029,,169,2900 
+DS,iscover,iscover,011782031851808,iane Carroll,19,9/2013,9/2026,6,785,78700 
+DS,iscover,iscover,011799905775830,onna A Rodriguez,45,4/2009,4/2020,1,992,89200 
+DS,iscover,iscover,011947988442295,aula E Head,16,7/2017,7/2026,7,279,8000 
+DS,iscover,iscover,011997178442613,illiam N French,00,0/2016,0/2026,3,815,5600 
+DS,iscover,iscover,460796411082848,raig X Keith,77,5/2016,5/2024,,257,2100 
+DS,iscover,iscover,480195344642784,renda D Peterson,89,1/2017,1/2022,,998,2700 
+DS,iscover,iscover,503768035770198,oyce B Warren,05,1/2007,1/2020,8,394,48600 
+JC,apan Credit Bureau,CB,529309374370709,andra H Adams,85,8/2013,8/2022,,030,0500 
+JC,apan Credit Bureau,CB,530679650338050,illy O Bell,69,1/2013,1/2014,5,208,7300 
+JC,apan Credit Bureau,CB,540660566628758,ennifer T Turner,56,7/2010,7/2016,,473,98200 
+JC,apan Credit Bureau,CB,541742607804785,anet Alexander,94,9/2017,9/2023,0,722,19300 
+JC,apan Credit Bureau,CB,543177982348371,eonard K Browning,80,1/2013,1/2021,,202,51400 
+JC,apan Credit Bureau,CB,543410867000993,inda T Brown,78,0/2014,0/2022,0,905,39900 
+JC,apan Credit Bureau,CB,547074154213978,ennifer K Potts,40,8/2010,8/2015,4,715,4900 
+JC,apan Credit Bureau,CB,554805075866455,randon B Boone,31,1/2017,1/2037,0,949,92400 
+JC,apan Credit Bureau,CB,555247100463777,udith Y Ross,62,2/2013,2/2031,7,037,45600 
+JC,apan Credit Bureau,CB,555651461566971,eather W Acosta,65,2/2015,2/2028,7,382,3500 
+JC,apan Credit Bureau,CB,574602168392317,atricia Williams,47,4/2015,4/2027,,007,3100 
+JC,apan Credit Bureau,CB,576884240025192,avid Z Hood,96,4/2017,4/2021,5,263,2200 
+JC,apan Credit Bureau,CB,583387923333637,lizabeth Z Lopez,13,1/2017,1/2026,2,066,8300 
+JC,apan Credit Bureau,CB,587385370593642,ancy S Robles,17,1/2015,1/2029,2,867,58000 
+JC,apan Credit Bureau,CB,587804193769544,effrey J Barnes,37,8/2015,8/2023,,675,55600 
+MC,aster Card,ank of America,184365754974776,risten Frank,44,4/2011,4/2017,8,784,45400 
+MC,aster Card,ank of America,197486845921173,obby F Walker,51,0/2015,0/2024,9,212,62200 
+MC,aster Card,ank of America,277170861128623,race D Sparks,76,7/2008,7/2009,1,076,70100 
+MC,aster Card,ank of America,353088009476430,eith Z Morris,26,8/2008,8/2026,8,482,5800 
+MC,aster Card,arclays,239508731179937,nita O Brennan,62,5/2010,5/2015,4,281,3900 
+MC,aster Card,arclays,314978894096111,hyllis H Johnson,14,3/2015,3/2024,8,650,1000 
+MC,aster Card,arclays,361683471944111,rances S Henderson,71,6/2014,6/2026,6,097,8100 
+MC,aster Card,arclays,478071282161218,ancy C Cox,56,6/2012,6/2016,4,008,87600 
+MC,aster Card,apital One,227744105887664,rthur Hines,74,0/2013,0/2023,4,574,54800 
+MC,aster Card,apital One,261435645422339,onald R Stewart,26,2/2017,2/2024,4,823,39100 
+MC,aster Card,apital One,317687967276511,enry W Ballard,53,3/2012,3/2028,2,432,1500 
+MC,aster Card,apital One,396432645152774,ictor J Mercado,91,9/2012,9/2018,8,687,7000 
+MC,aster Card,hase,152534162343936,llen Rodgers,55,0/2015,0/2020,,658,7300 
+MC,aster Card,hase,185684984230984,argaret T Ramirez,33,1/2009,1/2018,,900,95100 
+MC,aster Card,hase,198993763507511,incent M Fulton,20,0/2013,0/2022,4,023,5100 
+MC,aster Card,hase,200821738515481,oward R Bernard,35,6/2015,6/2026,3,804,43400 
+MC,aster Card,hase,243003288382344,obert A Long,90,8/2007,8/2026,5,078,34900 
+MC,aster Card,hase,285960602493348,ean J Young,36,2/2010,2/2012,0,556,01400 
+MC,aster Card,hase,360282527143330,nthony C Sanchez,00,1/2016,1/2033,2,731,1400 
+MC,aster Card,hase,399503918804668,ose Jenkins,77,6/2008,6/2019,6,235,84500 
+MC,aster Card,hase,453499332117717,aron Z Ramirez,58,4/2011,4/2025,4,434,2500 
+MC,aster Card,itibank,175321245361421,hristina G Francis,56,4/2017,4/2024,3,442,2000 
+MC,aster Card,itibank,490330287718321,enry T Miller,64,2/2017,2/2027,5,782,35600 
+MC,aster Card,E Capital,279163543425523,tanley K Hopper,44,1/2013,1/2016,2,482,0500 
+MC,aster Card,ells Fargo,195453057371101,on O Reese,41,6/2011,6/2020,5,907,1500 
+MC,aster Card,ells Fargo,347354432198200,eremy O Wilson,06,2/2007,2/2008,,448,9800 
+VI,isa,arclays,427457766161029,ustin Y Coleman,07,6/2007,6/2008,4,844,54800 
+VI,isa,abela’s WFB,667851507232827,achel V Jenkins,72,8/2010,8/2012,1,425,52300 
+VI,isa,apital One,743989012790232,immy V Baker,85,2/2016,2/2019,5,835,00300 
+VI,isa,hase,371272534015118,rancis Koch,13,1/2016,1/2025,,422,8700 
+VI,isa,hase,381079728309639,dward Z Owen,87,1/2010,1/2015,,031,3300 
+VI,isa,hase,391913331428998,ack Foster,17,3/2015,3/2021,,177,7300 
+VI,isa,hase,429191748538040,tephen H Ramirez,32,2/2007,2/2014,4,233,7000 
+VI,isa,hase,664059754435134,leanor Callahan,22,3/2015,3/2024,,442,67400 
+VI,isa,hase,871548318349681,andra N Parrish,79,6/2008,6/2011,,321,0300 
+VI,isa,itibank,337062521342242,athy Robinson,89,3/2011,3/2019,8,905,5800 
+VI,isa,itibank,546704841554181,aula R Bryan,43,4/2009,4/2027,5,492,02900 
+VI,isa,itibank,662255863114782,ario D Blanchard,03,3/2016,3/2022,5,865,51200 
+VI,isa,E Capital,530692732769919,incent U Jordan,81,3/2013,3/2019,5,913,29300 
+VI,isa,.S. Bancorp,465416868939297,ark Y Sheppard,20,1/2009,1/2014,0,230,24500 

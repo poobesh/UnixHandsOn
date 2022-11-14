@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 373818432827966
+Card Holder's Name: Charles R Farrell
+CVV/CVV2: 6890
+Issue Date: 10/2012
+Expiry Date: 10/2030
+Billing Date: 8
+Card PIN: 5444
+Credit Limit: $71,400 USD
