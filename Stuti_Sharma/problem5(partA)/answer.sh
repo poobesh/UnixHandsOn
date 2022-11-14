@@ -33,8 +33,7 @@ echo "$fileName"
 
 mkdir -p $cardType/$issuingBank
 
-echo -e "Card Type Code: $cardCode\nCard Type Full Name: $cardType\nIssuing Bank: $issuingBank\nCard Number: $cardNumber\nCard Holder's Name: $cardName\nCVV/CVV2: $CVV\nIssue Date: $issueDate\nExpiry Date: $expiryDate\nBilling Date: $billingDate\nCard Pin: $cardPin\ncreditLimit: $creditLimit" > "$cardType/$issuingBank/$fileName"
-
+echo -e "Card Type Code: $cardCode\nCard Type Full Name: $cardType\nIssuing Bank: $issuingBank\nCard Number: $cardNumber\nCard Holder's Name: $cardName\nCVV/CVV2: $CVV\nIssue Date: $issueDate\nExpiry Date: $expiryDate\nBilling Date: $billingDate\nCard Pin: $cardPin\ncreditLimit: $ $creditLimit" > "$cardType/$issuingBank/$fileName"
 done < <(tail -n +2 "$file")
 
 
