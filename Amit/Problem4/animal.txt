@@ -1,0 +1,4 @@
+cat elephant tiger lion crow cat dog dog
+dog dog elephant bat cat lion hyena griaffe
+zebra gorilla gorilla cat dog dog dog lion
+tiger tiger lion hyena cat
