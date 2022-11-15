@@ -1,0 +1,11 @@
+Card Type Code: MC 
+Type Full Name: Master Card 
+Bank: Capital One 
+Card Number: 5396432645152774 
+Card Holder's Name: Victor J Mercado
+CVV/CVV2:591
+Issue Date:09/2012
+Expiry Date: 09/2018
+Billing Date: 18
+Card PIN: 8687
+Credit Limit: $27000
