@@ -1,0 +1,3 @@
+date
+whoami
+pwd
