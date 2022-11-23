@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Capital One
+Card Number: 5227744105887664
+Card Holder's Name: Arthur Hines
+CVV/CVV2: 374
+Issue Date: 10/2013
+Expiry Date: 10/2023
+Billing Date: 24
+Card PIN: 5574
+Credit Limit: $154,800 USD

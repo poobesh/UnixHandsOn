@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Wells Fargo
+Card Number: 5347354432198200
+Card Holder's Name: Jeremy O Wilson
+CVV/CVV2: 306
+Issue Date: 12/2007
+Expiry Date: 12/2008
+Billing Date: 3
+Card PIN: 4448
+Credit Limit: $19,800 USD

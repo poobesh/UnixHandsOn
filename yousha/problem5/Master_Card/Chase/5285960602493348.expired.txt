@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Chase
+Card Number: 5285960602493348
+Card Holder's Name: Sean J Young
+CVV/CVV2: 336
+Issue Date: 02/2010
+Expiry Date: 02/2012
+Billing Date: 10
+Card PIN: 0556
+Credit Limit: $101,400 USD

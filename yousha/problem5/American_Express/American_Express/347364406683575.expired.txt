@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 347364406683575
+Card Holder's Name: Gerald O Lee
+CVV/CVV2: 3614
+Issue Date: 08/2016
+Expiry Date: 08/2022
+Billing Date: 23
+Card PIN: 0652
+Credit Limit: $27,400 USD

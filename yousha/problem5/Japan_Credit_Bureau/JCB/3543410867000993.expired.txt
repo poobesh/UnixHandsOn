@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3543410867000993
+Card Holder's Name: Linda T Brown
+CVV/CVV2: 878
+Issue Date: 10/2014
+Expiry Date: 10/2022
+Billing Date: 20
+Card PIN: 6905
+Credit Limit: $139,900 USD

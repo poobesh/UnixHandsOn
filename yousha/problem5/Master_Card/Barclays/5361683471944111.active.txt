@@ -1,0 +1,11 @@
+Card Type Code: MC
+Card Type Full Name: Master Card
+Issuing Bank: Barclays
+Card Number: 5361683471944111
+Card Holder's Name: Frances S Henderson
+CVV/CVV2: 371
+Issue Date: 06/2014
+Expiry Date: 06/2026
+Billing Date: 16
+Card PIN: 4097
+Credit Limit: $28,100 USD

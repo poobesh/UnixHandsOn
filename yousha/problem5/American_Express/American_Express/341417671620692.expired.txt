@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 341417671620692
+Card Holder's Name: Helen R Lucas
+CVV/CVV2: 5798
+Issue Date: 09/2017
+Expiry Date: 09/2020
+Billing Date: 1
+Card PIN: 3066
+Credit Limit: $40,100 USD

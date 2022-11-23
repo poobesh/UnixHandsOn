@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3574602168392317
+Card Holder's Name: Patricia Williams
+CVV/CVV2: 147
+Issue Date: 04/2015
+Expiry Date: 04/2027
+Billing Date: 8
+Card PIN: 9007
+Credit Limit: $13,100 USD

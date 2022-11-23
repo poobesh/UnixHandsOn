@@ -1,0 +1,11 @@
+Card Type Code: DC
+Card Type Full Name: Diners Club International
+Issuing Bank: Diners Club
+Card Number: 30295201231669
+Card Holder's Name: Dawn U Reese
+CVV/CVV2: 070
+Issue Date: 12/2015
+Expiry Date: 12/2016
+Billing Date: 11
+Card PIN: 3915
+Credit Limit: $12,700 USD

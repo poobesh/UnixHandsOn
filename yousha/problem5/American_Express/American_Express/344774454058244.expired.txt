@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 344774454058244
+Card Holder's Name: Randall Z Lott
+CVV/CVV2: 7026
+Issue Date: 11/2013
+Expiry Date: 11/2021
+Billing Date: 28
+Card PIN: 2813
+Credit Limit: $44,800 USD

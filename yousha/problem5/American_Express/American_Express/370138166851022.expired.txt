@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 370138166851022
+Card Holder's Name: Jeremy N White
+CVV/CVV2: 9594
+Issue Date: 07/2009
+Expiry Date: 07/2016
+Billing Date: 4
+Card PIN: 3248
+Credit Limit: $199,000 USD

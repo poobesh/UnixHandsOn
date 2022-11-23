@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 346715514167929
+Card Holder's Name: Marcus D Ashley
+CVV/CVV2: 2302
+Issue Date: 04/2013
+Expiry Date: 04/2021
+Billing Date: 6
+Card PIN: 2724
+Credit Limit: $28,400 USD

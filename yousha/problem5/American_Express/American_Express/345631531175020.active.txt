@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 345631531175020
+Card Holder's Name: Henry W Hewitt
+CVV/CVV2: 0525
+Issue Date: 05/2011
+Expiry Date: 05/2023
+Billing Date: 25
+Card PIN: 7880
+Credit Limit: $78,700 USD

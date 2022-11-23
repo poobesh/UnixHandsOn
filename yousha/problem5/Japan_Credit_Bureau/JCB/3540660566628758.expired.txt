@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3540660566628758
+Card Holder's Name: Jennifer T Turner
+CVV/CVV2: 256
+Issue Date: 07/2010
+Expiry Date: 07/2016
+Billing Date: 1
+Card PIN: 1473
+Credit Limit: $198,200 USD

@@ -1,0 +1,11 @@
+Card Type Code: VI
+Card Type Full Name: Visa
+Issuing Bank: Chase
+Card Number: 4664059754435134
+Card Holder's Name: Eleanor Callahan
+CVV/CVV2: 022
+Issue Date: 03/2015
+Expiry Date: 03/2024
+Billing Date: 3
+Card PIN: 5442
+Credit Limit: $167,400 USD

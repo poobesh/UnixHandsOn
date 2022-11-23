@@ -1,0 +1,11 @@
+Card Type Code: AX
+Card Type Full Name: American Express
+Issuing Bank: American Express
+Card Number: 371048488202599
+Card Holder's Name: Craig Gonzalez
+CVV/CVV2: 3664
+Issue Date: 08/2015
+Expiry Date: 08/2025
+Billing Date: 1
+Card PIN: 0040
+Credit Limit: $30,700 USD

@@ -1,0 +1,11 @@
+Card Type Code: JC
+Card Type Full Name: Japan Credit Bureau
+Issuing Bank: JCB
+Card Number: 3529309374370709
+Card Holder's Name: Sandra H Adams
+CVV/CVV2: 885
+Issue Date: 08/2013
+Expiry Date: 08/2022
+Billing Date: 6
+Card PIN: 3030
+Credit Limit: $50,500 USD
